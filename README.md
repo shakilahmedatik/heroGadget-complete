@@ -25,5 +25,9 @@ Title Text Animation -> [Tailwind Play](https://play.tailwindcss.com/VCZwwz1e3R)
 
 Icon -> [FlatIcon](https://www.flaticon.com/)
 
+Icon -> [Hero Icon](https://heroicons.com/)
+
+Emoji -> [EmojiPedia](https://emojipedia.org/)
+
 Image -> [Freepik](https://www.freepik.com/)
 
