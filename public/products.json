@@ -1,0 +1,74 @@
+[
+    {
+    "id": "623853b2614ad5aba311fdd1",
+    "index": 0,
+    "price": 799,
+    "picture": "https://i.ibb.co/GnQsSsL/smart-home-v2-7.jpg",
+    "name": "Smart Air Conditioner",
+    "category": "Home Appliance"
+    },
+    {
+    "id": "623853b2578e9e6ad1ae0dd5",
+    "index": 1,
+    "picture": "https://i.ibb.co/mBjmxg2/smart-home-v2-3.jpg",
+    "name": "Smart Air Fryer",
+    "price": 279,
+    "category": "Home Appliance"
+    },
+    {
+    "id": "623853b21fb149d2ee7b76c7",
+    "index": 2,
+    "picture": "https://i.ibb.co/c1mCwM4/smart-home-v2-9.jpg",
+    "name": "Smart Home Fan",
+    "price": 78,
+    "category": "Home Appliance"
+    },
+    {
+    "id": "623853b2e91c8de578c9245e",
+    "index": 3,
+    "picture": "https://i.ibb.co/6nwPbqg/smart-home-v1-3.jpg",
+    "name": "Smart Home Key",
+    "price": 51,
+    "category": "Home Appliance"
+    },
+    {
+    "id": "623853b2239582e48409ccc6",
+    "index": 4,
+    "price": 34,
+    "picture": "https://i.ibb.co/BqTBk7p/smart-home-v2-5.jpg",
+    "name": "Smart Pet Feeder",
+    "category": "Home Appliance"
+    },
+    {
+    "id": "623853b2cdda0d5bc294f791",
+    "index": 5,
+    "picture": "https://i.ibb.co/QKCWxZc/smart-home-v1-7.jpg",
+    "name": "Robot Vacuum Cleaner",
+    "price": 141,
+    "category": "Home Appliance"
+    },
+    {
+    "id": "623853b2736f19fd4eb8d44a",
+    "index": 6,
+    "price": 141,
+    "picture": "https://i.ibb.co/Lvmy6b9/smart-home-v1-10.jpg",
+    "name": "Smart Solar Panel",
+    "category": "Home Appliance"
+    },
+    {
+    "id": "623853b2736f19fd4eb8d44b",
+    "index": 7,
+    "price": 35,
+    "picture": "https://i.ibb.co/y8Dnrmk/smart-home-v2-10.jpg",
+    "name": "Smart Table Lamp",
+    "category": "Home Appliance"
+    },
+    {
+    "id": "623853b2736f19fd4eb8d44c",
+    "index": 8,
+    "price": 65,
+    "picture": "https://i.ibb.co/mHwf3bD/smart-home-v1-5.jpg",
+    "name": "Room Temperature Meter",
+    "category": "Home Appliance"
+    }
+    ]
